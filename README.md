@@ -29,7 +29,7 @@ Sunday                   10024 commits       █░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Manila
+🕑︎ Time Zone: Asia/Calcutta
 
 💬 Programming Languages: 
 TypeScript               23 mins             ██████████████████░░░░░░░   72.33 % 
